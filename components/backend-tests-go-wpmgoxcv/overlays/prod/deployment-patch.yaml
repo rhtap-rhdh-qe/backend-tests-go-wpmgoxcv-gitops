@@ -12,5 +12,5 @@ spec:
   template: 
     spec:
       containers:
-      - image: quay.io/redhat-appstudio/rhtap-task-runner:latest
+      - image: quay.io/rhtap_qe/backend-tests-go-wpmgoxcv:jenkins-c2b96db9dc1387b783beccaecd5fd06e84066d5e
         name: container-image  
